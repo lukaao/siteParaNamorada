@@ -1,0 +1,79 @@
+body {
+	background: pink;
+}
+
+#coisinha {
+	width: 100%;
+}
+.principal { 
+	padding: 30px;
+
+}
+.titulo-principal{
+	text-transform: uppercase;
+	color: black;
+	font-weight: bold;
+	font-size: 22px;
+	
+}
+
+
+.centralizado {
+	text-transform: uppercase;
+	color: black;
+	font-size: 22px;
+	text-align: center;
+	padding: 20px;
+}
+
+
+
+
+p {
+	text-align: center;
+
+}
+
+#menina {
+	font-size: 20px
+
+}
+
+strong em {
+	color: deeppink;
+
+}
+
+.itens {
+	font-style: italic;
+}
+
+.beneficios {
+	padding: 20px;
+	background: white;
+
+}
+
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 80%;
+
+}
+
+
+.poema {;
+	padding: 20px;
+	width: 100%;
+	background: pink;
+	
+}
+
+.espaco  {
+	text-transform: uppercase;
+	color: black;
+	font-size: 22px;
+	text-align: center;
+	padding: 20px;
+}
